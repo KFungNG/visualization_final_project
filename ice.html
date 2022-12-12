@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>Arctic_Sea_Ice_Extent of 1978-2019</title>
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<div id="main" style="width:80%;height:400px;margin: 0 auto"></div>
+<!-- ;margin-top:80px;控制距离顶部距离 -->
+<div id="main2" style="width:90%;height:400px;margin: 0 auto"></div>
+<!-- ECharts单文件引入 -->
+<script src="http://echarts.baidu.com/build/dist/echarts.js"></script>
+<script type="text/javascript">
+  // 路径配置
+  require.config({
+    paths: {
+      echarts: 'http://echarts.baidu.com/build/dist'
+    }
+  });
+
+  // 使用
+  require(
+          [
+            'echarts',
+            'echarts/chart/bar', // 使用柱状图就加载bar模块，按需加载
+            'echarts/chart/line'
+          ],
+          function (ec) {
+            // 基于准备好的dom，初始化echarts图表
+            var myChart = ec.init(document.getElementById('main'));
+            var myChart2 = ec.init(document.getElementById('main2'));
+
+            var option = { //具体细节的描述
+              title: {
+                text: '1978-2021 ice',
+                textStyle: { //主标题文本样式{"fontSize": 18,"fontWeight": "bolder","color": "#333"}
+                  fontSize: 18,
+                  fontStyle: 'normal',
+                  fontWeight: 'bold',
+                  color:'#1c1f61'
+                },
+              },
+              tooltip: {
+                trigger: 'axis'
+              },
+              legend: {
+                data: ['1979', '1984','1989','1994','1999','2004','2009','2014','2019']
+              },
+              toolbox: { //可以选择具体数据，柱状图，折线图，还原，保存图片的的切换选择
+                show: true,
+                feature: {
+                  dataView: {
+                    show: true,
+                    readOnly: false
+                  },
+                  magicType: {
+                    show: true,
+                    type: ['line', 'bar'] //可选折线图和柱状图
+                  },
+                  restore: {
+                    show: true  //恢复默认
+                  },
+                  saveAsImage: {
+                    show: true // 存储为图片的功能
+                  }
+                }
+              },
+              calculable: true,
+              xAxis: [{
+                type: 'category',
+                data: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+                name: '月份',
+                position: 'right'
+              }],
+              yAxis: [{
+                type: 'value',
+                name: '冰覆盖面积（m2)',
+                position: 'left'
+              }],
+              series: [{
+                name: '1979',
+                type: 'line',// bar
+                data: [15.41,16.18,16.34,15.45,13.86,12.53,10.31,8.04,7.05,8.75,10.94,13.34],
+                color: '#CC0000'
+              },
+                {
+                  name: '1984',
+                  type: 'line',//bar
+                  data: [14.47,15.30,15.58,15.02,13.58,12.15,9.98,7.77,6.81,8.56,10.84,12.99,11.91],
+                  color: '#009999'
+                },
+                {
+                  name: '1989',
+                  type: 'line',//bar
+                  data: [14.96,15.50,15.42,14.33,13.04,12.25,10.13,7.88,7.01,8.83,11.12,13.39,11.97],
+                  color: '#009999'
+                },
+                {
+                  name: '1994',
+                  type: 'line',//bar
+                  data: [14.73,15.56,15.55,14.89,13.62,12.02,9.93,7.64,7.14,8.92,11.12,13.27,12.01],
+                  color: '#009999'
+                },
+                {
+                  name: '1999',
+                  type: 'line',//bar
+                  data: [14.36,15.31,15.40,15.08,13.75,11.78,9.49,7.23,6.12,8.60,10.80,12.64,11.69],
+                  color: '#009999'
+                },
+                {
+                  name: '2004',
+                  type: 'line',//bar
+                  data: [14.03,14.91,14.99,13.99,12.56,11.45,9.43,6.86,5.98,7.93,10.34,12.55,11.24],
+                  color: '#009999'
+                },
+                {
+                  name: '2009',
+                  type: 'line',//bar
+                  data: [13.91,14.81,14.98,14.50,13.19,11.32,8.47,6.14,5.26,6.92,9.77,12.20,10.93],
+                  color: '#009999'
+                },
+                {
+                  name: '2014',
+                  type: 'line',//bar
+                  data: [13.65,14.42,14.76,14.09,12.70,11.03,8.11,6.08,5.22,7.23,10.12,12.35,10.79],
+                  color: '#000f99'
+                },
+                {
+                  name: '2019',
+                  type: 'line',//bar
+                  data: [13.57,14.39,14.57,13.43,12.19,10.59,7.59,5.03,4.36,5.74,9.35,11.90,10.20],
+                  color: '#059900'
+                },
+              ]
+            };
+
+
+            // 为echarts对象加载数据
+            myChart.setOption(option);
+          }
+  );
+</script>
+</body>
