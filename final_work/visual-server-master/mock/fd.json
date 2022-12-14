@@ -1,0 +1,9674 @@
+[
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 278154.156
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 279528.51
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 284525.345
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 288870.537
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 293696.553
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 305002.996
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 311886.129
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 320282.63
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 334075.978
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 343488.633
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 349635.487
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 357132.367
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 361540.81
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 369279.512
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 382820.89
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 386153.533
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 392384.302
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 399624.803
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 404233.067
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 407065.015
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 405103.32
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 403828.773
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 406150.91
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 397887.458
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 393952.876
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 401793.062
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 411264.288
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 414358.312
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 416283.827
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 416356.588
+    },
+    {
+        "Country": "Australia",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 399922.128
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 62145.248
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 65743.938
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 60243.908
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 60670.57
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 61045.756
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 64023.072
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 67367.013
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 67263.597
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 66898.315
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 65651.039
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 66149.78
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 70149.508
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 71953.612
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 77460.983
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 77678.295
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 79078.106
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 76806.465
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 74106.78
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 73481.909
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 67298.655
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 72006.411
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 69893.113
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 67265.91
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 67759.445
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 64160.0
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 66348.823
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 67210.743
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 69592.825
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 66557.18
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 67936.185
+    },
+    {
+        "Country": "Austria",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 62037.447
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 120292.644
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 123362.363
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 122488.07
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 121422.702
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 124795.264
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 125933.051
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 129474.969
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 123983.505
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 130212.392
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 124704.147
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 126719.535
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 126063.796
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 126860.502
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 128245.64
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 128778.889
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 125636.389
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 123880.438
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 120477.002
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 120175.599
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 107732.357
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 114557.864
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 105020.115
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 102355.635
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 102666.433
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 96887.002
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 101061.722
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 99601.625
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 99126.283
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 99873.631
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 99432.619
+    },
+    {
+        "Country": "Belgium",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 90368.008
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 458218.336
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 449959.72
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 463758.64
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 464311.598
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 478726.314
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 491386.794
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 507510.733
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 521839.964
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 529649.5429999999
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 544063.78
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 566690.447
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 558777.507
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 564050.931
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 581305.3199999999
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 579592.044
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 574653.628
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 568450.936
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 593515.764
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 576558.336
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 543967.59
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 556560.518
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 567054.133
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 568223.147
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 572613.311
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 569839.687
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 574298.1899999999
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 560525.313
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 571544.6189999999
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 584369.116
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 584714.184
+    },
+    {
+        "Country": "Canada",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 534863.824
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 164210.748
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 148879.301
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 145710.611
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 140129.093
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 132673.276
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 131627.143
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 135004.354
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 130834.167
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 125427.259
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 116569.943
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 127155.962
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 127030.014
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 123946.89
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 127478.649
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 128247.534
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 125688.561
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 126566.097
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 128369.906
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 122912.256
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 115013.223
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 117482.148
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 115185.836
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 111280.674
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 106711.393
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 104228.848
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 104995.655
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 106655.719
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 107747.749
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 106337.972
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 101012.964
+    },
+    {
+        "Country": "Czech Republic",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 91853.879
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 54879.31
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 65460.413
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 59626.777
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 61713.365
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 65729.348
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 62690.011
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 76027.155
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 66643.867
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 62436.135
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 59877.751
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 55641.028
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 57355.836
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 56923.89
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 62089.839
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 56536.141
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 52973.786
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 60931.294
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 56170.843
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 52675.572
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 50217.025
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 50731.56
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 45705.1
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 41268.089
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 43125.773
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 38920.24
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 36543.728
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 38348.631
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 36274.606
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 36316.692
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 32601.018
+    },
+    {
+        "Country": "Denmark",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 29948.38
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 56914.337
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 55188.76
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 54265.059
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 56313.366
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 61732.669
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 58115.518
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 64033.059
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 62696.172
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 59351.464
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 58866.897
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 57009.923
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 62513.736
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 65040.97
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 72654.324
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 68939.111
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 57047.316
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 68370.69
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 66759.835
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 58620.999
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 55905.073
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 64080.758
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 56637.171
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 51145.686
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 51703.752
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 47595.831
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 44099.095
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 47181.861
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 44577.796
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 45796.461
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 42381.841
+    },
+    {
+        "Country": "Finland",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 37595.927
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 400964.635
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 426478.614
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 415157.02
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 397075.643
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 391196.097
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 396061.74
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 411286.373
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 404145.466
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 424294.257
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 423145.035
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 418188.986
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 423443.915
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 420017.439
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 424895.687
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 426570.83
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 429561.365
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 419873.213
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 410400.759
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 404514.96
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 385238.039
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 391533.992
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 369674.773
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 371884.042
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 373645.232
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 342923.52
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 347527.792
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 351094.358
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 354045.608
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 339398.537
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 332962.152
+    },
+    {
+        "Country": "France",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 295136.417
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 1051979.1029999999
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 1013824.095
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 965541.817
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 955819.934
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 939492.314
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 938613.5649999999
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 958700.377
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 930870.0870000001
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 922812.222
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 895352.121
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 899351.824
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 916144.477
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 899449.765
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 900627.666
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 886637.162
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 866302.77
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 877938.802
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 851222.968
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 854508.174
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 789899.98
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 832540.983
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 808911.525
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 813693.048
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 831207.653
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 792255.427
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 795556.5699999999
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 800339.834
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 785616.471
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 754408.432
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 707149.948
+    },
+    {
+        "Country": "Germany",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 639381.013
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 83438.04
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 83407.498
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 84975.654
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 84284.958
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 86430.258
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 86963.204
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 89114.955
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 93801.558
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 98621.793
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 97934.815
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 102973.167
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 105361.862
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 105000.51
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 109066.728
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 109485.277
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 113888.965
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 112419.545
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 114545.692
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 111080.374
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 104319.843
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 97354.15
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 94505.232
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 91392.589
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 81713.26
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 78639.618
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 74927.631
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 71364.164
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 74845.05
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 71781.99
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 65756.232
+    },
+    {
+        "Country": "Greece",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 55610.277
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 73225.536
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 69656.248
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 62084.832
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 63389.271
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 61786.556
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 61391.314
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 63024.782
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 61623.559
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 61163.666
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 61663.743
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 58365.151
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 59968.212
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 59004.707
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 61756.177
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 60129.554
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 60276.272
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 59633.211
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 58553.668
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 57248.107
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 51464.055
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 52068.732
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 50191.329
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 46757.481
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 43611.553
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 43729.844
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 46653.47
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 47113.086
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 49515.229
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 49463.319
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 49234.646
+    },
+    {
+        "Country": "Hungary",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 47284.497
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 2215.856
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 2096.309
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 2242.604
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 2393.481
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 2342.135
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 2459.567
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 2513.641
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 2609.59
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 2628.704
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 2831.173
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 2923.141
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 2855.336
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 2982.484
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 2976.171
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 3100.137
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 2968.443
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 3144.668
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 3483.689
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 3801.137
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 3719.715
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 3616.621
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 3494.164
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 3490.87
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 3480.08
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 3436.352
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 3533.853
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 3485.184
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 3601.62
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 3658.953
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 3546.263
+    },
+    {
+        "Country": "Iceland",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 3328.876
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 32944.42
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 33674.307
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 33495.315
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 33716.364
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 34838.447
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 35852.987
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 37469.27
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 38804.985
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 40708.971
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 42440.183
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 45249.116
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 47607.612
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 46081.589
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 45684.109
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 46166.785
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 48156.597
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 47604.659
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 47664.334
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 47363.258
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 42179.308
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 41793.616
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 38056.383
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 38227.157
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 37281.75
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 36853.014
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 38718.04
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 40369.543
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 39078.033
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 39012.368
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 37325.663
+    },
+    {
+        "Country": "Ireland",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 35153.202
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 439549.84
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 439094.125
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 439315.32
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 431604.813
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 425796.827
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 449826.113
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 444029.375
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 449754.151
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 461945.962
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 466424.936
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 470487.187
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 470568.081
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 477998.974
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 495961.64
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 501563.232
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 502255.442
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 496846.732
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 490566.288
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 478868.679
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 424694.439
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 436117.437
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 424256.27
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 403696.912
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 369679.72
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 349390.357
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 361163.177
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 358182.542
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 352735.387
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 349005.042
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 339233.207
+    },
+    {
+        "Country": "Italy",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 302278.6
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 1158129.439
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 1169777.716
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 1179504.3160000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 1172487.308
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 1227513.5319999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 1239909.3999999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 1252447.0449999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 1245139.3600000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 1205249.923
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 1241835.6040000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 1264594.656
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 1249988.5390000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 1279362.3
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 1287691.834
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 1283076.662
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 1290599.5079999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 1267623.9580000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 1303362.03
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 1232480.6950000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 1163375.1340000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 1215058.1029999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 1265034.8629999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 1306182.513
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 1315568.7
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 1264413.2509999999
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 1223605.1610000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 1203888.206
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 1188358.949
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 1143411.9080000001
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 1106015.486
+    },
+    {
+        "Country": "Japan",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 1042224.0159999999
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 251989.83
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 274849.48
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 299733.5
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 334691.25
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 356981.39
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 384258.29
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 418602.73
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 446183.12
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 379351.85
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 411460.87
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 443674.42
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 459377.95
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 478859.64
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 487339.0
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 492760.55
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 498236.37
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 504046.74
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 524263.46
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 538154.0600000001
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 542525.42
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 595307.86
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 625934.74
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 627779.95
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 636637.26
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 629870.14
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 634320.4
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 637427.6800000001
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 650220.24
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 664976.14
+    },
+    {
+        "Country": "Korea",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 643766.99
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 11823.353
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 12443.151
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 12209.723
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 12354.764
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 11542.475
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 9151.729
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 9201.614
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 8553.97
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 7675.949
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 8127.875
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 8709.963
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 9207.531
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 9983.685
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 10459.17
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 11829.091
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 12087.836
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 11920.357
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 11317.78
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 11184.473
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 10638.966
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 11202.164
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 11102.959
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 10867.476
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 10325.364
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 9828.191
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 9347.466
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 9089.235
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 9261.198
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 9566.671
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 9751.728
+    },
+    {
+        "Country": "Luxembourg",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 8096.513
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 319999.845
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 329716.353
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 333049.712
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 338075.107
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 360853.348
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 347496.645
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 360698.316
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 381504.327
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 402609.083
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 398743.803
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 413330.302
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 410218.434
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 428339.205
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 425479.216
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 444430.98
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 453055.221
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 466112.58
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 484927.373
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 511672.756
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 499520.735
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 499279.545
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 515650.059
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 510821.566
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 510809.803
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 508360.097
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 516966.503
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 555997.73
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 528003.527
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 527794.87
+    },
+    {
+        "Country": "Mexico",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 497718.909
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 161806.917
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 170227.322
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 170015.192
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 170206.051
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 170787.558
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 172300.139
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 181452.353
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 174492.784
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 175461.134
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 169934.487
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 171082.23
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 176207.519
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 175567.735
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 179005.305
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 180891.772
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 176917.31
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 172092.066
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 171874.012
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 174853.119
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 169529.326
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 181526.727
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 168259.66
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 164688.781
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 164674.489
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 157655.585
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 164142.511
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 164862.023
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 162493.965
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 158627.84
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 153032.807
+    },
+    {
+        "Country": "Netherlands",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 137849.518
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 25502.507
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 26182.595
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 28166.921
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 27761.185
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 27900.043
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 28003.492
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 29304.544
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 31278.675
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 29858.54
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 31465.59
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 32246.009
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 34379.213
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 34542.293
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 36241.474
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 35836.298
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 37424.07
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 37330.16
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 36410.664
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 37509.257
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 34620.669
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 34811.084
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 34265.851
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 35945.09
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 35241.004
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 35438.926
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 35813.107
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 34152.639
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 35688.127
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 35704.539
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 37121.034
+    },
+    {
+        "Country": "New Zealand",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 34456.753
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 35096.627
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 33535.74
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 34455.991
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 36000.791
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 37903.672
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 38508.475
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 41572.049
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 41734.924
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 41871.292
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 42637.011
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 42148.809
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 43526.973
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 42593.352
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 43979.268
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 44308.29
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 43341.62
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 43926.735
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 45665.808
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 44794.653
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 43224.779
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 45691.012
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 44791.393
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 44295.95
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 44586.63
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 45045.76
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 45590.312
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 44764.196
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 44242.843
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 44392.442
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 42784.54
+    },
+    {
+        "Country": "Norway",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 41196.761
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 376813.577
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 373834.442
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 364748.781
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 365448.045
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 360522.221
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 362892.258
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 377577.851
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 367524.628
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 339365.274
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 329552.343
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 317719.195
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 313849.975
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 306610.293
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 319624.035
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 324436.208
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 323409.481
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 337317.578
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 336731.479
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 330485.117
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 316868.513
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 334916.988
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 334337.154
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 326734.935
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 322651.181
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 310319.1
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 313455.719
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 324381.233
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 337734.951
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 337048.486
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 318487.666
+    },
+    {
+        "Country": "Poland",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 303523.082
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 45325.085
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 47141.64
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 50969.942
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 49483.611
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 50261.173
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 54524.438
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 51815.227
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 54694.41
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 59247.501
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 66899.642
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 65685.547
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 65237.192
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 69643.312
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 64537.89
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 67385.154
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 69717.987
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 64923.915
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 62437.402
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 60106.794
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 57207.48
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 53001.358
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 51801.576
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 49959.709
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 48163.477
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 47945.815
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 52270.289
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 50442.234
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 55210.185
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 51459.107
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 47618.826
+    },
+    {
+        "Country": "Portugal",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 41799.894
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 61470.187
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 53283.798
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 48884.203
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 46348.516
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 43754.326
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 44142.329
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 44023.477
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 44095.513
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 43824.664
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 43035.493
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 41135.935
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 43220.929
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 41960.933
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 42293.771
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 42780.235
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 42788.856
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 42552.108
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 40968.268
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 41359.045
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 37622.061
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 38403.931
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 37984.837
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 35910.395
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 35565.563
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 33656.215
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 34468.229
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 34912.876
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 36112.652
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 36102.971
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 33776.188
+    },
+    {
+        "Country": "Slovak Republic",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 31094.728
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 231328.439
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 241074.298
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 249939.228
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 241298.918
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 253803.789
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 267577.468
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 255049.06
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 267589.849
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 276184.605
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 299722.14
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 311674.624
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 313620.597
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 333730.307
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 338045.87
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 354827.957
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 370065.779
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 361120.33
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 368985.581
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 337182.422
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 297747.8
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 284282.684
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 285132.255
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 279384.956
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 253102.713
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 255459.1
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 272164.66
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 261227.657
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 275053.205
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 270052.271
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 251825.149
+    },
+    {
+        "Country": "Spain",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 213339.721
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 57580.09
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 57950.551
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 57688.9
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 57725.985
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 60186.577
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 59605.074
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 63521.837
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 58425.368
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 58893.226
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 56031.844
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 54890.663
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 55821.961
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 56791.591
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 57371.496
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 56682.884
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 54066.087
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 53885.099
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 53151.971
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 51070.465
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 47421.459
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 53287.345
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 49405.178
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 46918.582
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 45351.341
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 43477.929
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 43741.733
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 43415.985
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 42704.238
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 42094.909
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 40982.492
+    },
+    {
+        "Country": "Sweden",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 36515.101
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 44159.882
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 46133.385
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 46016.512
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 43611.87
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 42676.629
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 43419.264
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 44107.436
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 43047.483
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 44622.854
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 44445.646
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 43622.369
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 45077.498
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 43463.863
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 44647.716
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 45238.267
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 45778.558
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 45373.349
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 43368.761
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 44710.572
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 43538.552
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 45045.709
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 40985.233
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 42253.032
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 43187.726
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 39233.632
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 38731.82
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 39185.341
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 38178.641
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 36873.818
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 36733.064
+    },
+    {
+        "Country": "Switzerland",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 34240.967
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 151664.532
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 158140.727
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 164061.435
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 171133.724
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 167560.891
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 181481.826
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 199582.745
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 212037.409
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 212069.926
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 207857.771
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 229858.207
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 213483.471
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 221148.221
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 236683.29
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 244688.735
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 264768.615
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 282266.691
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 313578.157
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 310532.303
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 316319.322
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 316036.475
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 341862.344
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 355882.64
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 347152.667
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 363866.339
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 384330.489
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 405304.505
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 430220.402
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 422568.908
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 401719.742
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 413433.085
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 602652.078
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 610098.954
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 594499.057
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 580276.823
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 574683.241
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 566852.196
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 587450.906
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 563386.577
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 569237.7830000001
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 562344.301
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 569744.209
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 578698.598
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 561014.63
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 572373.661
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 574200.863
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 571126.89
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 568698.066
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 560512.7389999999
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 545791.866
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 494923.488
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 512736.335
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 470509.119
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 488176.363
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 478310.995
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 439505.394
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 423162.942
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 400145.839
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 388085.916
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 380444.859
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 365468.409
+    },
+    {
+        "Country": "United Kingdom",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 326920.693
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 5122496.2479999997
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 5064987.1749999998
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 5175219.9749999996
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 5274362.6299999999
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 5365578.8250000002
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 5427798.477
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 5616430.8640000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 5691864.5970000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 5737129.3700000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 5810331.3949999996
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 6016350.574
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 5911988.517
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 5952698.5810000002
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 6015804.2189999996
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 6117962.6859999998
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 6137603.4450000003
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 6057163.1610000003
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 6135287.2079999996
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 5918868.6540000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 5482977.8990000002
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 5681392.0350000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 5546628.9579999996
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 5345454.2609999999
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 5480926.0970000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 5528871.2759999996
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 5376577.9330000002
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 5251757.6289999997
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 5210957.5839999998
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 5376657.233
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 5259143.8360000001
+    },
+    {
+        "Country": "United States",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 4715691.1090000002
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 32252.755
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 30600.233
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 31912.562
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 34041.635
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 36703.52
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 39875.03
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 45712.3
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 52592.522
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 53536.298
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 56063.548
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 53317.937
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 50961.71
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 51967.342
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 52697.29
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 57767.593
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 58532.582
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 60380.002
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 69233.441
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 70348.403
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 67401.09
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 67152.523
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 75930.456
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 81150.916
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 80260.563
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 76569.937
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 83042.434
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 86507.198
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 87003.011
+    },
+    {
+        "Country": "Chile",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 87191.736
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 36922.213
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 34138.629
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 24422.898
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 19439.861
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 20046.154
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 18066.413
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 19042.308
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 18684.563
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 16942.19
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 15955.205
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 15500.382
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 15900.311
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 15383.117
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 17278.976
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 17342.298
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 17109.785
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 16454.333
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 19966.375
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 17890.232
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 14440.645
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 19002.517
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 18984.222
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 17794.827
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 19697.905
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 18860.397
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 15846.9
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 17559.353
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 18762.487
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 17935.074
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 12380.19
+    },
+    {
+        "Country": "Estonia",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 9343.01
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 52232.0
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 61067.818
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 62534.542
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 62459.544
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 62734.167
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 63760.604
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 66585.271
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 66068.73
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 63244.641
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 65110.026
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 67164.842
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 72431.718
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 66310.985
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 64306.368
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 66118.768
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 65176.723
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 64898.833
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 64547.704
+    },
+    {
+        "Country": "Israel",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 65795.32
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 2534865.0600000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 2405531.915
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 1965610.2039999999
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 1865939.469
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 1646941.737
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 1618951.1699999999
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 1586172.8959999999
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 1481618.77
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 1464542.9979999999
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 1493155.061
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 1478184.753
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 1514713.5209999999
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 1505520.1710000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 1535293.112
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 1541753.926
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 1559082.76
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 1618246.1510000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 1618586.183
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 1646969.024
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 1539305.6580000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 1626187.5530000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 1679278.4269999999
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 1694576.422
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 1632716.4180000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 1631662.227
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 1629713.1510000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 1624756.335
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 1654154.0220000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 1700452.8400000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 1692363.4140000001
+    },
+    {
+        "Country": "Russia",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 1624221.4310000001
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 15094.849
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 13974.238
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 13883.42
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 14247.177
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 14636.503
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 15354.18
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 15999.325
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 16506.85
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 16038.877
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 15412.35
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 15053.69
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 16302.567
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 16564.489
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 16271.331
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 16704.502
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 16932.322
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 17178.324
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 17342.812
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 18278.409
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 16204.024
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 16459.522
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 16358.579
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 15760.511
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 15133.322
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 13568.17
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 13653.307
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 14464.584
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 14622.025
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 14526.712
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 14048.142
+    },
+    {
+        "Country": "Slovenia",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 12866.237
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 19661.396
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 17919.401
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 14193.356
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 11921.497
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 10370.008
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 9133.782
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 9211.501
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 8679.764
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 8305.879
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 7717.713
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 7081.469
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 7496.323
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 7520.245
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 7725.858
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 7730.934
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 7810.471
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 8309.829
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 8637.101
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 8197.894
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 7456.006
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 8554.094
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 7810.795
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 7519.41
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 7368.437
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 7171.961
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 7262.099
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 7210.325
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 7214.946
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 7859.363
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 7648.673
+    },
+    {
+        "Country": "Latvia",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 6994.113
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 35767.734
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 37849.997
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 21201.457
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 16353.746
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 15801.144
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 15091.554
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 15773.444
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 15196.349
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 16030.578
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 13482.975
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 11876.4
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 12627.074
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 12699.16
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 12692.601
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 13287.306
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 14117.414
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 14434.081
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 15824.054
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 15204.23
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 13043.233
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 13946.613
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 14292.825
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 14349.487
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 13355.973
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 13108.084
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 13319.679
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 13351.177
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 13571.834
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 13691.349
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 13923.306
+    },
+    {
+        "Country": "Lithuania",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 13653.155
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 213555.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 224675.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 226821.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 235656.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 245011.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 263283.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 282440.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 299443.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 310259.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 320522.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 331466.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 338212.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 337959.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 333001.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 349853.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 356897.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 361457.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 380822.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 402090.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 381380.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 429845.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 449665.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 483346.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 516845.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 541676.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 515871.0
+    },
+    {
+        "Country": "Brazil",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 478123.0
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 48556.341
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 50494.433
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 54388.404
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 56115.231
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 56462.057
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 58915.417
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 59012.426
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 63767.478
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 63604.14
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 58094.248
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 60489.912
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 58033.573
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 57253.999
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 59015.23
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 60496.183
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 64420.063
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 67443.299
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 68009.427
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 68230.221
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 72217.225
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 79067.98
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 77135.113
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 81926.242
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 86145.147
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 88337.896
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 91221.211
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 93056.662
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 86277.777
+    },
+    {
+        "Country": "Colombia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 90394.268
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 3134.549
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 3146.262
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 3890.232
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 4080.54
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 4861.877
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 4934.526
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 4790.667
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 4719.591
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 5246.605
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 5364.257
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 5403.395
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 5735.38
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 5851.448
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 6148.124
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 6105.244
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 6339.478
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 6956.732
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 7673.555
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 7642.419
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 7340.351
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 7549.134
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 7846.272
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 7901.751
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 8255.121
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 8282.533
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 7959.158
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 8501.514
+    },
+    {
+        "Country": "Costa Rica",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 8655.813
+    },
+    {
+        "Country": "India",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 779348.0
+    },
+    {
+        "Country": "India",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 1024772.9
+    },
+    {
+        "Country": "India",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 1574362.1599999999
+    },
+    {
+        "Country": "India",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 2231069.0
+    },
+    {
+        "Country": "South Africa",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 280931.77
+    },
+    {
+        "Country": "South Africa",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 315957.23
+    },
+    {
+        "Country": "China",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 3073470.0
+    },
+    {
+        "Country": "China",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 6381000.0
+    },
+    {
+        "Country": "China",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 8707376.0
+    },
+    {
+        "Country": "China",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 9893257.0
+    },
+    {
+        "Country": "China",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 10274851.0
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 100932.724
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 109765.393
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 112308.399
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 114520.671
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 120321.61
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 122471.459
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 132871.604
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 137246.816
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 141872.342
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 143136.26
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 147559.007
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 137059.771
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 130585.316
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 138890.166
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 152128.317
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 159546.615
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 169871.805
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 183197.355
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 186094.613
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 179865.907
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 188856.437
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 198455.959
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 196684.472
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 201531.775
+    },
+    {
+        "Country": "Argentina",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 200983.616
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 142688.19
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 155100.4
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 165505.55
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 175681.85
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 189146.31
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 289527.15
+    },
+    {
+        "Country": "Indonesia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 628114.0
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 172748.523
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 141302.602
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 130877.719
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 121636.533
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 119894.951
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 124937.551
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 128300.049
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 117335.778
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 103788.935
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 87763.275
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 92668.296
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 98150.928
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 98356.844
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 102844.232
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 102109.621
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 100241.794
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 103180.297
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 108619.759
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 106793.398
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 87738.711
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 85319.464
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 93500.672
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 94241.345
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 80040.561
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 79253.858
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 78511.705
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 77542.947
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 80703.302
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 82805.79
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 79786.668
+    },
+    {
+        "Country": "Romania",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 77549.495
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 30656.73
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 28744.44
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 31284.54
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 44219.88
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 45083.54
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 51270.25
+    },
+    {
+        "Country": "Peru",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 56054.32
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 4653.217
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 5142.773
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 5517.491
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 5760.916
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 6002.476
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 5874.107
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 6224.288
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 6312.09
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 6609.144
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 6875.935
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 7122.416
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 6996.583
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 7185.924
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 7576.801
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 7803.428
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 7957.711
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 8185.408
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 8504.782
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 8717.247
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 8471.739
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 8102.698
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 7789.403
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 7264.032
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 6583.978
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 6952.145
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 6972.964
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 7375.415
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 7525.365
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 7342.546
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 7343.176
+    },
+    {
+        "Country": "Cyprus",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 7269.578
+    },
+    {
+        "Country": "Saudi Arabia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 138265.5
+    },
+    {
+        "Country": "Saudi Arabia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 256720.0
+    },
+    {
+        "Country": "Saudi Arabia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 471246.3
+    },
+    {
+        "Country": "Saudi Arabia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 498852.8
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 278781.769
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 269489.798
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 245215.827
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 217963.803
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 184332.707
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 177082.247
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 162760.497
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 154166.198
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 148818.172
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 123721.703
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 147473.712
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 142295.087
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 159971.295
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 177823.927
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 187304.225
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 200437.93
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 220048.086
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 226128.841
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 227121.447
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 221057.174
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 246982.754
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 237033.962
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 243921.902
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 251452.709
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 297643.502
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 301273.154
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 304839.535
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 320791.449
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 331820.7
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 297569.458
+    },
+    {
+        "Country": "Kazakhstan",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 278404.593
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 2394.194
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 2238.107
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 2292.08
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 2870.399
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 2647.929
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 2439.42
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 2550.535
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 2556.728
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 2513.582
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 2591.822
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 2507.257
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 2647.718
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 2687.784
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 2960.534
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 2819.964
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 2644.672
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 2661.658
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 2731.301
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 2739.894
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 2527.633
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 2589.131
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 2577.198
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 2726.207
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 2379.19
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 2364.387
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 1665.291
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 1356.353
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 1530.878
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 1546.948
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 1649.193
+    },
+    {
+        "Country": "Malta",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 1599.576
+    },
+    {
+        "Country": "Iran",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 310645.33
+    },
+    {
+        "Country": "Iran",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 365908.35
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 22979.789
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 16987.509
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 16372.593
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 16809.18
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 16054.021
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 16817.667
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 17344.87
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 18558.618
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 19013.422
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 20024.746
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 19662.487
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 20785.304
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 21889.46
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 23215.261
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 22887.891
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 23343.921
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 23549.946
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 24862.861
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 23594.994
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 21804.455
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 21016.283
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 20649.618
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 19087.403
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 18432.191
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 17681.566
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 17824.705
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 18109.014
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 18743.995
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 17724.152
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 17857.446
+    },
+    {
+        "Country": "Croatia",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 16870.528
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 76699.197
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 61516.959
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 57366.293
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 58426.648
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 56404.59
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 57951.033
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 58501.566
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 55855.871
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 53174.794
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 46378.9
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 45464.332
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 48980.165
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 46155.491
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 50532.395
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 49583.352
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 50654.402
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 51891.855
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 55737.583
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 54076.123
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 45812.407
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 47858.926
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 53174.763
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 48338.905
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 42678.602
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 45266.301
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 48260.534
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 45484.31
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 47569.757
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 43616.065
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 42255.765
+    },
+    {
+        "Country": "Bulgaria",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 36967.113
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 705830.0429999999
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 632536.676
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 589060.298
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 510199.583
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 419266.344
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 389864.657
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 351408.793
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 340242.725
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 328576.744
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 298178.287
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 285321.939
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 303561.756
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 295673.973
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 306998.709
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 310270.626
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 313066.891
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 332613.143
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 336351.221
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 325536.205
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 277296.698
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 294110.664
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 307956.066
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 303976.228
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 297251.191
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 257510.818
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 223824.094
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 234008.459
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 223087.077
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 231674.691
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 222056.698
+    },
+    {
+        "Country": "Ukraine",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 206941.159
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 108890.783
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 101531.252
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 92569.989
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 79656.259
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 65119.565
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 59944.158
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 60532.706
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 60971.352
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 59315.497
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 56679.895
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 56450.07
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 56112.493
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 55838.548
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 57244.456
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 60824.882
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 61980.141
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 64846.826
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 63934.951
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 66096.375
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 62312.384
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 63470.693
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 62366.583
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 63749.667
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 64392.295
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 63861.214
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 59195.473
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 59242.458
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 59823.06
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 62611.329
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 62424.803
+    },
+    {
+        "Country": "Belarus",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 59081.717
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 198.971
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 206.329
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 206.95
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 215.034
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 201.111
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 204.202
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 205.96
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 218.376
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 229.239
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 226.566
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 216.86
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 214.671
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 220.018
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 229.355
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 229.391
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 228.986
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 231.121
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 200.794
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 219.536
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 205.375
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 190.83
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 176.782
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 185.325
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 192.545
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 161.259
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 159.774
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 149.838
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 155.769
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 142.95
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 149.026
+    },
+    {
+        "Country": "Liechtenstein",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 141.996
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 98.228
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 98.91
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 104.511
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 103.597
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 104.41
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 101.195
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 104.704
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 103.187
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 102.05
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 102.754
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 100.292
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 99.984
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 99.714
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 97.022
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 91.849
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 89.838
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 83.987
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 82.717
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 82.307
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 79.185
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 77.719
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 74.939
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 77.986
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 78.753
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 73.813
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 76.08
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 74.584
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 72.987
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 74.692
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 71.372
+    },
+    {
+        "Country": "Monaco",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 60.789
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1990,
+        "Value": 3873612.6200000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1991,
+        "Value": 3811795.0800000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1992,
+        "Value": 3683487.6600000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1993,
+        "Value": 3616471.9300000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1994,
+        "Value": 3598232.7000000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1995,
+        "Value": 3646956.8599999999
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1996,
+        "Value": 3731120.9900000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1997,
+        "Value": 3665484.25
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1998,
+        "Value": 3656942.1899999999
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 1999,
+        "Value": 3602137.3500000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2000,
+        "Value": 3615126.54
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2001,
+        "Value": 3673259.73
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2002,
+        "Value": 3675009.2200000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2003,
+        "Value": 3758356.9700000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2004,
+        "Value": 3769835.4100000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2005,
+        "Value": 3750731.3999999999
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2006,
+        "Value": 3760528.3300000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2007,
+        "Value": 3726531.2000000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2008,
+        "Value": 3643183.7400000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2009,
+        "Value": 3348496.4500000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2010,
+        "Value": 3449738.1000000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2011,
+        "Value": 3351198.54
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2012,
+        "Value": 3280514.1800000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2013,
+        "Value": 3194610.25
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2014,
+        "Value": 3058152.5099999998
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2015,
+        "Value": 3110503.4900000002
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2016,
+        "Value": 3118246.8300000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2017,
+        "Value": 3141970.02
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2018,
+        "Value": 3069951.8799999999
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2019,
+        "Value": 2927393.8900000001
+    },
+    {
+        "Country": "European Union \u2013 27 countries (from 01\/02\/2020)",
+        "POL": "CO2",
+        "Year": 2020,
+        "Value": 2641979.0099999998
+    }
+]
