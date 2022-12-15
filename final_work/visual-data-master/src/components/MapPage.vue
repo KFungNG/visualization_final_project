@@ -47,7 +47,7 @@ export default {
                         }
                     },
                     title: {
-                        text: "World Papulation(2010)",
+                        text: "World Population(2010)",
                         left: 'center',
 
                         textStyle: {
