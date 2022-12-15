@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 >Gobal_temperature</h2>
+    <h2 >Global_temperature</h2>
     <div class="chart" id="oneChart">图标容器</div>
   </div>
 </template>
