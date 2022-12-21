@@ -20,6 +20,8 @@ cd 到 final_work/visual-server-master
 如果画面出现缩放问题。请调整你的画面大小（Ctrl+鼠标滚轮）
 
 # Reference
-网页模板来源吧https://www.bilibili.com/video/BV14u411D7qK/?spm_id_from=333.337.search-card.all.click&vd_source=041b69bcffbb4641b910caa75b67140d
+网页模板来源： https://www.bilibili.com/video/BV14u411D7qK/?spm_id_from=333.337.search-card.all.click&vd_source=041b69bcffbb4641b910caa75b67140d
 
-还有个人口数据来源https://population.un.org/wpp/
+人口数据来源： https://population.un.org/wpp/
+
+全球气候变化数据来源： https://climate.nasa.gov/
